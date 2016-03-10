@@ -1,6 +1,6 @@
 # Hamilton (Franklin) Book Theme by Bryan Braun
 
-See a live version @ [`bookdesigns.github.io/franklin-hamilton` »](http://bookdesigns.github.io/franklin-hamilton)
+See a live version @ [`bookdesigns.github.io/book-hamilton` »](http://bookdesigns.github.io/book-hamilton)
 
 
 ## Update & Build Notes
@@ -28,9 +28,5 @@ Generate syntax.css theme using Rouge
 <%#= Rouge::Themes::Base16::Monokai.render(:scope => '.highlight') %>
 ```
 
-### Todos
-
-- check anchor.js - inline pic not working (wrong encoding) ??
-- do NOT use anchor.min  - just regular is ok
 
 
