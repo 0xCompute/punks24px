@@ -2,10 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>[[ discover_page_title ]]</title>
+    <title>{{ site.title }} by {{ site.author.name }}</title>
 
     <!-- Styles and fonts -->
     <link rel="stylesheet" href="css/style.css">
@@ -31,12 +28,12 @@
       <header class="page-header" role="banner">
         <a href="index.html" class="invisilink">
           {% if true %}   <!-- ['index.html'].include? current_page.path -->
-            <h1 class="book-title">[[ data.book.title ]]</h1>
+            <h1 class="book-title">{{ site.title }}</h1>
           {% else %}
-            <span class="book-title">[[ data.book.title ]]</span>
+            <span class="book-title">{{ site.title }}</span>
           {% endif %}
         </a>
-        <span class="book-author visuallyhidden">by [[ data.book.author ]]</span>
+        <span class="book-author visuallyhidden">by {{ site.author.name }}</span>
       </header>
 
       {{ content }}
@@ -71,11 +68,11 @@
             </div>
             <div class="block open-source">
               <h3>This book is open source</h3>
-              <p>The source of this book is <a href="[[ data.book.github_url ]]">hosted on Github</a>. Go, ahead. Check it out.</p>
+              <p>The source of this book is <a href="{{ site.github.url }}">hosted on Github</a>. Go, ahead. Check it out.</p>
             </div>
           </div>
 
-          <div class="small-text"><small>A Free Gutenberg Book</small></div>
+          <div class="small-text"><small>A Zen of Book Designs Sample</small></div>
 
         </div><!-- end footer-wrapper -->
 
