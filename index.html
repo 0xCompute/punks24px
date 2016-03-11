@@ -7,13 +7,27 @@ layout: default
           <a href="#" class="toc-title" id="toc-title"><h3>Table of Contents</h3></a>
           <nav role="navigation" id="toc-nav" style="display: none;">
             <ul id="toc-list">
-              [[ tree_to_html(data.tree) ]]
+
+              <!-- was: [[ tree_to_html(data.tree) ]] -->
+
+             {% for chapter in site.chapters %}
+                 <li class="child">
+                   <a href="#{{ forloop.index }}">{{ chapter.title }}</a>
+                 </li>
+             {% endfor %}
+              
             </ul>
           </nav>
         </div>
         <section class="main-content" role="main">
           <div class="main-content-source">
-            [[ add content here ]]
+           
+            {% for chapter in site.chapters %}
+               <a name="{{ forloop.index }}"></a>
+               <h1>{{ chapter.title }}</h1><!-- use h2 - why? why not? -->
+               {{ chapter.content }}
+            {% endfor %}
+
           </div>
           <!--
              note: for now single-page; no need for next page etc. 
