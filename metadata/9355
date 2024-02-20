@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9355",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9355.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

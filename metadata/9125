@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9125",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9125.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

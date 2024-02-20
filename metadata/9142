@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #9142",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9142.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #8438",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8438.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

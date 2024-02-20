@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #5314",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5314.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

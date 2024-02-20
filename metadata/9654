@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #9654",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9654.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

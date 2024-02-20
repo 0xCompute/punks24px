@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #657",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0657.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

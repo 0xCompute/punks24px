@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #5142",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5142.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

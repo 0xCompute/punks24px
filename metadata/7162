@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #7162",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7162.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

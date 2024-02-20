@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #9124",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9124.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #5662",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5662.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8179",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8179.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

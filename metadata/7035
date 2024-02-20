@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #7035",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7035.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

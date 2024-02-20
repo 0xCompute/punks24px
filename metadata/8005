@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8005",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8005.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

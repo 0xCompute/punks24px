@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #6974",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6974.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Blue"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

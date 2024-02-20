@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #546",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0546.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Laser Eyes Gold"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

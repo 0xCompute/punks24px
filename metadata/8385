@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8385",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8385.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

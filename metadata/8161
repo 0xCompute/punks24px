@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8161",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8161.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "VR"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

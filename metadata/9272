@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9272",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9272.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

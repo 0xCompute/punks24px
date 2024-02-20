@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #4595",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4595.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

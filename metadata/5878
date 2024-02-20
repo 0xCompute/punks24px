@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #5878",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5878.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

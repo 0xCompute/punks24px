@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8537",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8537.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

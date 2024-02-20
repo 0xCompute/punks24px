@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #2463",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2463.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

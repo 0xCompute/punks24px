@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #516",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0516.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

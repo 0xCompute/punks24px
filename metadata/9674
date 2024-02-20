@@ -1,0 +1,34 @@
+{
+  "name": "Punk 24px #9674",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9674.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "5"
+    }
+  ]
+}

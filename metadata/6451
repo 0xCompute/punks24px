@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #6451",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6451.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

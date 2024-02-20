@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9131",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9131.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

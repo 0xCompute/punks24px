@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8501",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8501.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

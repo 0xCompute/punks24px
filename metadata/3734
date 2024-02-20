@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #3734",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3734.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

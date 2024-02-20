@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #8904",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8904.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

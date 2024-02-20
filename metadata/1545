@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #1545",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1545.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

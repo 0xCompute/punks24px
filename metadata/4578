@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #4578",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4578.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "VR"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

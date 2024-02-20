@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #4220",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4220.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

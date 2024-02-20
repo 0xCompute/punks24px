@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #8668",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8668.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

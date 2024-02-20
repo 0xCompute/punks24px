@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #9038",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9038.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Gold 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

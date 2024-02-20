@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #4775",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4775.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

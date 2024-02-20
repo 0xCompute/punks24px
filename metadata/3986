@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #3986",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3986.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

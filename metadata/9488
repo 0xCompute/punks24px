@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9488",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9488.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

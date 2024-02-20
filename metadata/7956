@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #7956",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7956.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Laser Eyes Gold"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #2196",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2196.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

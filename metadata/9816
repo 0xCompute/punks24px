@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #9816",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9816.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

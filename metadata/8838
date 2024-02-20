@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8838",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8838.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

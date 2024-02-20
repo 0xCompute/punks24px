@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #878",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0878.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

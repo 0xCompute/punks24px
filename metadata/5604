@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #5604",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5604.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

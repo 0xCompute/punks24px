@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #5892",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5892.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

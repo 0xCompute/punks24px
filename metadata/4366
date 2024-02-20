@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #4366",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4366.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

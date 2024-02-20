@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #5943",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5943.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

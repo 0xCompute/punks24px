@@ -1,0 +1,18 @@
+{
+  "name": "Punk 24px #100",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0100.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "1"
+    }
+  ]
+}

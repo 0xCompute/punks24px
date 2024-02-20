@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #1483",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1483.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

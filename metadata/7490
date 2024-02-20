@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #7490",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7490.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

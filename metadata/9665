@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9665",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9665.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

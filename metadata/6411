@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #6411",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6411.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

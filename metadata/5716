@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #5716",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5716.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

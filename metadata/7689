@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #7689",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7689.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #4573",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4573.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9797",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9797.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

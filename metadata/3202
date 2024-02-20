@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #3202",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3202.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9337",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9337.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

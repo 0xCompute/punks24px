@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9582",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9582.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

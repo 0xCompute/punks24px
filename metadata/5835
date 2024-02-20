@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #5835",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5835.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

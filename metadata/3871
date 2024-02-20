@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #3871",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3871.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Gold 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

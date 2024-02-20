@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #2593",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2593.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

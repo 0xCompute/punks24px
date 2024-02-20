@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #7644",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7644.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

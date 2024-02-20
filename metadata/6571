@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #6571",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6571.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

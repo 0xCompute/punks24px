@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #9667",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9667.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

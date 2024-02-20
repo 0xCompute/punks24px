@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #2266",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2266.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

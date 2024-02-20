@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #4434",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4434.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9600",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9600.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Gold 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

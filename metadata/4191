@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #4191",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4191.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

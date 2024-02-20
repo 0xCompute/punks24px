@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #486",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0486.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

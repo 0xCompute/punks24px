@@ -1,0 +1,34 @@
+{
+  "name": "Punk 24px #8870",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8870.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "5"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #4296",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4296.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

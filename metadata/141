@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #141",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0141.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

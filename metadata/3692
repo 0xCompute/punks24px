@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #3692",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3692.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #6898",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6898.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Gold 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

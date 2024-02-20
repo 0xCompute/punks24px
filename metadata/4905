@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #4905",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4905.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

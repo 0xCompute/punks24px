@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #2054",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2054.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

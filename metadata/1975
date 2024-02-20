@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #1975",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1975.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

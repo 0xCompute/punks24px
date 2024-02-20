@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #7420",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7420.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

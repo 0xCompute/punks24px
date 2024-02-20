@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #7368",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7368.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

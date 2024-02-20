@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #4251",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4251.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Blue"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "VR"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

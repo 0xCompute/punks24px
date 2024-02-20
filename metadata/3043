@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #3043",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3043.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

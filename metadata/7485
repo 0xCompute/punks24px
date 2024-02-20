@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #7485",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7485.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Blue"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #6072",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6072.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

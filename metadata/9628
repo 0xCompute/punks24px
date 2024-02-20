@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9628",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9628.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

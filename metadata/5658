@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #5658",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5658.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Laser Eyes Gold"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #4596",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4596.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #6152",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6152.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

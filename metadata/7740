@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #7740",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7740.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

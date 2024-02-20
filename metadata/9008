@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9008",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9008.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

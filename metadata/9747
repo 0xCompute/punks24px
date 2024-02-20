@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #9747",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9747.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

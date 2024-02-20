@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #9113",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9113.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

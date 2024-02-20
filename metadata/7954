@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #7954",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7954.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

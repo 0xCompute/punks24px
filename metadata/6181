@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #6181",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6181.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Blue"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

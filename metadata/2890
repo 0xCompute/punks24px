@@ -1,0 +1,18 @@
+{
+  "name": "Punk 24px #2890",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2890.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "1"
+    }
+  ]
+}

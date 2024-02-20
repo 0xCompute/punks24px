@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #8609",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8609.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

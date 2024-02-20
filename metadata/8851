@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #8851",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8851.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #2383",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2383.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Blue"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

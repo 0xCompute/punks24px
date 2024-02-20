@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #8723",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8723.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

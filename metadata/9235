@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #9235",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9235.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

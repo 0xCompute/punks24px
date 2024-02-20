@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #6285",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6285.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

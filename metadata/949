@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #949",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0949.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 4"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #7604",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7604.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

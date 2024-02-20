@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #8620",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk8620.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

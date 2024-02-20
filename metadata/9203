@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #9203",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9203.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

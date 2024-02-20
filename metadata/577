@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #577",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0577.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

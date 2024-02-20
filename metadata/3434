@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #3434",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3434.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

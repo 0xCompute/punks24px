@@ -1,0 +1,18 @@
+{
+  "name": "Punk 24px #2466",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2466.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Gold 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "1"
+    }
+  ]
+}

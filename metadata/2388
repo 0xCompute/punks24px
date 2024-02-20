@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #2388",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2388.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

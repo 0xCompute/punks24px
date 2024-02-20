@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #1447",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1447.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

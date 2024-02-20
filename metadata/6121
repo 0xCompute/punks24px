@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #6121",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6121.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

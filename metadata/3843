@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #3843",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3843.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

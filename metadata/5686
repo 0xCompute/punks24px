@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #5686",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5686.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

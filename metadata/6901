@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #6901",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6901.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

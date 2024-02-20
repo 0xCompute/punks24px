@@ -1,0 +1,34 @@
+{
+  "name": "Punk 24px #6466",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6466.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Blue"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "5"
+    }
+  ]
+}

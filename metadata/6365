@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #6365",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6365.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

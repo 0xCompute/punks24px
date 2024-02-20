@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #905",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0905.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

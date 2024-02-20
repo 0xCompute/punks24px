@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #4480",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4480.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

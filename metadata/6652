@@ -1,0 +1,18 @@
+{
+  "name": "Punk 24px #6652",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6652.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "1"
+    }
+  ]
+}

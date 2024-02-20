@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #2249",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2249.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

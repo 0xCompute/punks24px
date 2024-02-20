@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #2931",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2931.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

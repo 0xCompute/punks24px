@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #2589",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk2589.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

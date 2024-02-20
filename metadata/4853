@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #4853",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk4853.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #1303",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1303.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

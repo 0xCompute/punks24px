@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #6437",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6437.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

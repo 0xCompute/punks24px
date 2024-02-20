@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #9148",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9148.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

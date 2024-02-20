@@ -1,0 +1,18 @@
+{
+  "name": "Punk 24px #1903",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1903.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "1"
+    }
+  ]
+}

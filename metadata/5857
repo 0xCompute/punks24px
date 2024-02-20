@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #5857",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5857.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

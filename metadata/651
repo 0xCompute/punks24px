@@ -1,0 +1,18 @@
+{
+  "name": "Punk 24px #651",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk0651.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #9368",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9368.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

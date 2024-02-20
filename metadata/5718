@@ -1,0 +1,26 @@
+{
+  "name": "Punk 24px #5718",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5718.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "3"
+    }
+  ]
+}

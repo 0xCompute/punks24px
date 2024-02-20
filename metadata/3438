@@ -1,0 +1,30 @@
+{
+  "name": "Punk 24px #3438",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk3438.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "4"
+    }
+  ]
+}

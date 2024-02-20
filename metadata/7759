@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #7759",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk7759.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

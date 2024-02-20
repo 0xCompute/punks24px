@@ -1,0 +1,18 @@
+{
+  "name": "Punk 24px #6288",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk6288.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female Green"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "1"
+    }
+  ]
+}

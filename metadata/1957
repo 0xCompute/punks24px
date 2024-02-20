@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #1957",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1957.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

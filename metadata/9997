@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #9997",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk9997.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #1785",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk1785.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}

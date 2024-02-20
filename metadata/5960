@@ -1,0 +1,22 @@
+{
+  "name": "Punk 24px #5960",
+  "image": "https://github.com/0xCompute/punks24px/raw/master/i/punk5960.png",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "attribute count",
+      "value": "2"
+    }
+  ]
+}
