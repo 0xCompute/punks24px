@@ -12,6 +12,7 @@ find all images and metadata right here.
 
 here's a preview of punks 24px on facetnft.com  
 
+![](i/punks24px-facet.png)
 
 
 do your own research. as far as i can tell this might be the first punk collection on facet. note - the punks 24px mint is 0.0015 eth + network fees.
