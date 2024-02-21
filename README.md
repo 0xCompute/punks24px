@@ -10,7 +10,9 @@ ps: the punks 24px collection uses the punks 12px formula to transform the image
 
 find all images and metadata right here.
 
-here's a preview of the punks 24px on facetnft.com  
+here's a preview of punks 24px on facetnft.com  
+
+
 
 do your own research. as far as i can tell this might be the first punk collection on facet. note - the punks 24px mint is 0.0015 eth + network fees.
 
@@ -24,20 +26,8 @@ for updates, see <https://twitter.com/punks12px_eth>
 ## (Base URI) Metadata and Reference Images 
 
 find all images in 24x24px in the [/i](i) directory.
-from [/i/punk0000.png](i/punk0000.png) to 
-[/i/punk9999.png](i/punk9999.png)  
-
-[](i/punk0000.png)
-[](i/punk0001.png)
-[](i/punk0002.png)
-[](i/punk0003.png)
-[](i/punk0004.png)
-[](i/punk0005.png)
-[](i/punk0006.png)
-[](i/punk0007.png)
-[](i/punk0008.png)
-[](i/punk0009.png)
-...
+from [/i/punk0000.png](i/punk0000.png) ![](i/punk0000.png) to 
+[/i/punk9999.png](i/punk9999.png)  ![](i/punk9999.png)
 
 find all (base uri) metadata (in .json) in the [/metadata](metadata) directory.
 from [/metadata/0](metadata/0) to 
@@ -46,7 +36,7 @@ from [/metadata/0](metadata/0) to
 accessible via
 
 - <https://github.com/0xCompute/punks24px/raw/master/metadata/0>
-...
+- ...
 - <https://github.com/0xCompute/punks24px/raw/master/metadata/9999>
 
 
