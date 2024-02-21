@@ -2422,7 +2422,7 @@ id, type, attributes
 2420, Male 3, Shadow Beard / Earring / Cap M
 2421, Male Gold 1, Headband / Vape
 2422, Female 1, Earring / Pigtails
-2423, Male 1, Silver Chain / Hood Dark / Clown Eyes Blue
+2423, Male 1, Silver Chain / Hood Dark
 2424, Robot, Earring / Bandana
 2425, Female Green, Mohawk / Clown Eyes Blue
 2426, Female 3, Earring / Tiara / Green Eye Shadow
@@ -5724,7 +5724,7 @@ id, type, attributes
 5722, Male Green, Shadow Beard / Bandana / Classic Shades
 5723, Female 1, Hot Lipstick / Mole / Earring / Blonde Bob
 5724, Female 4, Wild Hair / Eye Patch
-5725, Male 3, Normal Beard Black / Earring / Hood Pharoah / Eye Patch
+5725, Male 3, Normal Beard Black / Earring / Hood Pharoah
 5726, Male 1, Mustache / Earring / Clown Hair Green
 5727, Male 3, Buck Teeth / Front Beard / Pipe
 5728, Female Green, Rosy Cheeks / Frumpy Hair / Blue Eye Shadow
@@ -6577,7 +6577,7 @@ id, type, attributes
 6575, Male 3, Buck Teeth / Clown Hair Green
 6576, Female 4, Tassle Hat / Regular Shades
 6577, Female Green, Hot Lipstick / Spots / Blonde Bob
-6578, Male Green, Hood Pharoah / Regular Shades
+6578, Male Green, Hood Pharoah
 6579, Male Green, Earring / Frumpy Hair / VR (M)
 6580, Male 4, Chinstrap / Mohawk Dark / Nerd Glasses
 6581, Female 1, Tiara / Cigarette
@@ -7843,7 +7843,7 @@ id, type, attributes
 7841, Female 3, Crazy Hair / Clown Eyes Blue
 7842, Male 1, Mole / Bandana
 7843, Male 1, Front Beard / Cap Forward / Clown Nose
-7844, Male 3, Front Beard / Earring / Hood Dark / Classic Shades
+7844, Male 3, Front Beard / Earring / Hood Dark
 7845, Male 4, Luxurious Beard / Messy Hair / Classic Shades
 7846, Male 3, Beanie / 3D Glasses
 7847, Male Green, Front Beard / Earring / Headband

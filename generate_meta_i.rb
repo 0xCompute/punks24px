@@ -117,9 +117,25 @@ def generate_punk( *values  )
           else attribute_name
           end
   end
+
+  ## clean-up
+  ## note: for hood (down) strip all eyewear
+   if attribute_names.join.include?( 'Hood Dark') ||
+      attribute_names.join.include?( 'Hood Pharoah') 
+
+      attribute_names = attribute_names.select do |attribute_name|
+            case attribute_name
+            when 'Clown Eyes Blue', 
+                 'Eye Patch',
+                 'Regular Shades',
+                 'Classic Shades' then  false
+            else true
+            end
+        end
+   end
   end
 
-  
+
   [punk_type, *attribute_names.flatten]
 end # method generate
 

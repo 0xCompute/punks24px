@@ -19,12 +19,8 @@
       "value": "Hood Pharoah"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Patch"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "4"
+      "value": "3"
     }
   ]
 }

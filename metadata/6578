@@ -11,12 +11,8 @@
       "value": "Hood Pharoah"
     },
     {
-      "trait_type": "attribute",
-      "value": "Regular Shades"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

@@ -19,12 +19,8 @@
       "value": "Hood Dark"
     },
     {
-      "trait_type": "attribute",
-      "value": "Classic Shades"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "4"
+      "value": "3"
     }
   ]
 }
