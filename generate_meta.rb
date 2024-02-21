@@ -90,7 +90,7 @@ end
 
 
 headers = ['id', 'type', 'attributes']
-File.open( "./punks24px.csv", "w:utf-8" ) do |f|
+File.open( "./etc/punks24px.i.csv", "w:utf-8" ) do |f|
    f.write( headers.join( ', '))
    f.write( "\n")
    meta.each do |values|

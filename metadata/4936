@@ -8,11 +8,15 @@
     },
     {
       "trait_type": "attribute",
-      "value": "Tiara"
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Flowers"
     },
     {
       "trait_type": "attribute count",
-      "value": "1"
+      "value": "2"
     }
   ]
 }

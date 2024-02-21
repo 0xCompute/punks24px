@@ -8,7 +8,11 @@
     },
     {
       "trait_type": "attribute",
-      "value": "Tiara"
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "attribute",
+      "value": "Bow"
     },
     {
       "trait_type": "attribute",
@@ -16,7 +20,7 @@
     },
     {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "3"
     }
   ]
 }
