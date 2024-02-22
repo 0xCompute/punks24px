@@ -15,12 +15,8 @@
       "value": "Orange Side"
     },
     {
-      "trait_type": "attribute",
-      "value": "Green Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female 1"
+      "value": "Alien Female Blue"
     },
     {
       "trait_type": "attribute",
@@ -15,12 +15,8 @@
       "value": "Cap"
     },
     {
-      "trait_type": "attribute",
-      "value": "Purple Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }

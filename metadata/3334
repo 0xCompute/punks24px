@@ -11,12 +11,8 @@
       "value": "Dark Hair"
     },
     {
-      "trait_type": "attribute",
-      "value": "Green Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

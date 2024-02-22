@@ -15,12 +15,8 @@
       "value": "Bandana"
     },
     {
-      "trait_type": "attribute",
-      "value": "Blue Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }

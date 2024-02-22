@@ -4,19 +4,15 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female 1"
+      "value": "Alien Female Red"
     },
     {
       "trait_type": "attribute",
       "value": "Blonde Bob"
     },
     {
-      "trait_type": "attribute",
-      "value": "Purple Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

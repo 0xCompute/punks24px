@@ -4,19 +4,15 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female 1"
+      "value": "Alien Female"
     },
     {
       "trait_type": "attribute",
       "value": "Mohawk Dark"
     },
     {
-      "trait_type": "attribute",
-      "value": "Green Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female 1"
+      "value": "Alien Female Violet"
     },
     {
       "trait_type": "attribute",
@@ -19,12 +19,8 @@
       "value": "Cigarette"
     },
     {
-      "trait_type": "attribute",
-      "value": "Blue Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "4"
+      "value": "3"
     }
   ]
 }
