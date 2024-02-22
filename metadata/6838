@@ -4,7 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Male Green"
+      "value": "Mummy Green"
     },
     {
       "trait_type": "attribute",
@@ -19,12 +19,8 @@
       "value": "Cigarette"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Patch"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "4"
+      "value": "3"
     }
   ]
 }

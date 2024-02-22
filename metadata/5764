@@ -4,19 +4,15 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Male Green"
+      "value": "Robot Green"
     },
     {
       "trait_type": "attribute",
       "value": "Bandana"
     },
     {
-      "trait_type": "attribute",
-      "value": "Clown Eyes Green"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

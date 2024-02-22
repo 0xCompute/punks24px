@@ -4,7 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
+      "value": "Robot Female Green"
     },
     {
       "trait_type": "attribute",
@@ -19,12 +19,8 @@
       "value": "Pipe"
     },
     {
-      "trait_type": "attribute",
-      "value": "Blue Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "4"
+      "value": "3"
     }
   ]
 }

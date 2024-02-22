@@ -4,23 +4,15 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
-    },
-    {
-      "trait_type": "attribute",
-      "value": "Purple Lipstick"
+      "value": "Robot Female Green"
     },
     {
       "trait_type": "attribute",
       "value": "Blonde Bob"
     },
     {
-      "trait_type": "attribute",
-      "value": "Blue Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "1"
     }
   ]
 }

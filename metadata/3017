@@ -15,12 +15,8 @@
       "value": "Knitted Cap"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Mask"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }

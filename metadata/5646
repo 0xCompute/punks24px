@@ -4,7 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
+      "value": "Mummy Female Green"
     },
     {
       "trait_type": "attribute",
@@ -15,12 +15,8 @@
       "value": "Pigtails"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Patch"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }

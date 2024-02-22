@@ -4,11 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
-    },
-    {
-      "trait_type": "attribute",
-      "value": "Black Lipstick"
+      "value": "Skeleton Female Green"
     },
     {
       "trait_type": "attribute",
@@ -16,7 +12,7 @@
     },
     {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

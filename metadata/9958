@@ -4,11 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
-    },
-    {
-      "trait_type": "attribute",
-      "value": "Purple Lipstick"
+      "value": "Robot Female Green"
     },
     {
       "trait_type": "attribute",
@@ -19,12 +15,8 @@
       "value": "Mohawk Thin"
     },
     {
-      "trait_type": "attribute",
-      "value": "Green Eye Shadow"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "4"
+      "value": "2"
     }
   ]
 }

@@ -11,12 +11,8 @@
       "value": "Top Hat"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Mask"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

@@ -4,23 +4,15 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
-    },
-    {
-      "trait_type": "attribute",
-      "value": "Hot Lipstick"
+      "value": "Robot Female Green"
     },
     {
       "trait_type": "attribute",
       "value": "Dark Hair"
     },
     {
-      "trait_type": "attribute",
-      "value": "Clown Eyes Blue"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "1"
     }
   ]
 }

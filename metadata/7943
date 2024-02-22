@@ -4,7 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
+      "value": "Robot Female Green"
     },
     {
       "trait_type": "attribute",
@@ -15,12 +15,8 @@
       "value": "Pipe"
     },
     {
-      "trait_type": "attribute",
-      "value": "Clown Eyes Green"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }

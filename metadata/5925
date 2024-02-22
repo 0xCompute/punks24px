@@ -15,12 +15,8 @@
       "value": "Frumpy Hair"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Patch"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }

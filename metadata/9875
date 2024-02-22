@@ -4,19 +4,15 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Female Green"
+      "value": "Robot Female Green"
     },
     {
       "trait_type": "attribute",
       "value": "Tassle Hat"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Mask"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "2"
+      "value": "1"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "attributes": [
     {
       "trait_type": "type",
-      "value": "Male Green"
+      "value": "Mummy Green"
     },
     {
       "trait_type": "attribute",
@@ -15,12 +15,8 @@
       "value": "Headband"
     },
     {
-      "trait_type": "attribute",
-      "value": "Eye Patch"
-    },
-    {
       "trait_type": "attribute count",
-      "value": "3"
+      "value": "2"
     }
   ]
 }
